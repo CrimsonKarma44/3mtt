@@ -1,0 +1,10 @@
+body {
+   margin: 0px 30px;
+   background-color: black;
+   color: white;
+}
+
+#img-1 {
+   width: 30rem;
+   height: auto;
+}
